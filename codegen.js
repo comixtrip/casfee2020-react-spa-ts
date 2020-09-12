@@ -18,7 +18,7 @@ module.exports = {
     }
   ],
   "documents": [
-    "./src/data/**/*.ts"
+    "./src/data/**/*.graphql"
   ],
   "overwrite": true,
   "generates": {
